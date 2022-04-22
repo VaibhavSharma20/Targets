@@ -127,5 +127,5 @@ if(port==null || port==""){
 }
 
 app.listen(port,function(){
-    console.log("Todo-List server started on port 3000");
+    console.log("Targets server started on port 3000");
 });
